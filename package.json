@@ -1,27 +1,24 @@
 {
-  "name": "mows",
+  "name": "Mibel_Midterm",
   "version": "1.0.0",
-  "description": "MQTT over Websocket Web App",
+  "description": "MQTT over Websocket Web Application",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jun Rey Ansing",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/junreycloudstrife/mows.git"
+    "url": "git+https://github.com/mibeldang/Mibel_Midterm.git"
   },
-  "keywords": [
-    "mows",
-    "mqtt",
-    "websocket"
-  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/junreycloudstrife/mows/issues"
+    "url": "https://github.com/mibeldang/Mibel_Midterm/issues"
   },
-  "homepage": "https://github.com/junreycloudstrife/mows#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/mibeldang/Mibel_Midterm#readme"
 }
